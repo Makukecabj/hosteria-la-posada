@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hosteria-la-posada.vercel.app/sitemap.xml
